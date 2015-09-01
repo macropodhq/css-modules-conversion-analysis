@@ -1,0 +1,27 @@
+{
+  "name": "css-modules-conversion-analysis",
+  "version": "0.0.1",
+  "description": "How close are you?",
+  "dependencies": {
+    "react-component-metadata": "1.3.1",
+    "colors": "1.1.2",
+    "console.table": "0.4.0",
+    "lodash": "3.10.1",
+    "minimist": "1.2.0",
+    "recursive-readdir": "1.2.1"
+  },
+  "bin": {
+    "cmca": "index.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macropodhq/css-modules-conversion-analysis.git"
+  },
+  "homepage": "https://github.com/macropodhq/css-modules-conversion-analysis",
+  "readme": "# css-modules-conversion-analysis\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/macropodhq/css-modules-conversion-analysis/issues"
+  }
+}
